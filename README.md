@@ -1,5 +1,5 @@
 # php-pixoo-apiclient
-This is a website to send matrix to pixoo16 or pixoo64 via offline api.
+This is a website to send matrix images to pixoo16 or pixoo64 via offline api.
 
 NOTE: 
 With this project you can learn how to send matrix images to the pixoo16 and pixoo64 via the offline api. 
